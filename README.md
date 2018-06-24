@@ -21,7 +21,7 @@ Run train.py.
 The weights for the front-end will be saved in the file name "model.h5"
 
 ### Testing
-Give the path to your image in the file predict.py
+Give the path to your image in predict.py
 
 Run predict.py
 
