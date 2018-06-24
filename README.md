@@ -6,6 +6,9 @@ The objective is to train a YOLO algorithm to detect multiple heads from as fram
 1. TensorFlow
 2. Keras
 
+### Download the pre-trained weights for the backend
+Download full_yolo_backend from https://onedrive.live.com/?authkey=%21AM2OzK4S4RpT%2DSU&id=5FDEBAB7450CDD92%21121&cid=5FDEBAB7450CDD92
+
 ### Dataset
  Download the dataset and put it in the root directory.
  
@@ -13,8 +16,10 @@ The objective is to train a YOLO algorithm to detect multiple heads from as fram
  
 ### Training
 Run train.py
+The weights for the front-end will be saved in the file name "model.h5"
 
 ### Testing
+Edit the predict.py file and give the file name of your image.
 Run predict.py
 
 ## License
