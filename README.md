@@ -15,7 +15,7 @@ Download full_yolo_backend from https://onedrive.live.com/?authkey=%21AM2OzK4S4R
  Annotations - https://drive.google.com/open?id=1LiTDMWk0KglGueJCaxgneEA_ltvEbUDV
  
 ### Training
-Run train.py
+Run train.py.
 The weights for the front-end will be saved in the file name "model.h5"
 
 ### Testing
