@@ -12,7 +12,7 @@
         "train_annot_folder":   "Annotations/",
           
         "train_times":          8,
-        "pretrained_weights":   "full_yolo_kangaroo.h5",
+        "pretrained_weights":   "",
         "batch_size":           16,
         "learning_rate":        1e-4,
         "nb_epochs":            1,
