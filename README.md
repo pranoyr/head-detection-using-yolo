@@ -1,5 +1,5 @@
 # Head Detection Using YOLO Algorithm
-The objective is to train a YOLO algorithm to detect multiple heads from as frame.
+The objective is to train a YOLO algorithm to detect multiple heads from a frame.
 
 ## Getting Started
 ### Prerequisites
