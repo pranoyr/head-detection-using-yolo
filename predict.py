@@ -17,7 +17,7 @@ os.environ["CUDA_VISIBLE_DEVICES"]="0"
 def _main_():
     config_path  = 'config.json'
     weights_path = 'model.h5'
-    image_path   = '/media/pranoy/Air1/PycharmProjects/helmet-detection/images/BN-EJ709_icycle_G_20140904014616.jpg'
+    image_path   = 'image.jpg'
 
     with open(config_path) as config_buffer:    
         config = json.load(config_buffer)
