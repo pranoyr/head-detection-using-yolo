@@ -21,11 +21,11 @@ Run train.py
 
 The weights for the front-end will be saved in the file name "model.h5".
 
+### Inference
+
 I have uploaded the front-end weights.
 https://drive.google.com/file/d/1wg4q9cc6q04oRr_Xaf9GVhhbTSH4-ena/view?usp=sharing
 
-
-### Testing
 Give the path to your image in predict.py
 
 Run predict.py
